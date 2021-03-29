@@ -6,5 +6,5 @@ https://ramblekb.github.io/BO/pop.html
 
 https://ramblekb.github.io/BO/art.html
 
-ttps://ramblekb.github.io/BO/war.html
+https://ramblekb.github.io/BO/war.html
 
