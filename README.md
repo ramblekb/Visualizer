@@ -1,4 +1,4 @@
-# BO
+# BO site for HANDLINES w/ visuals
 
 https://ramblekb.github.io/BO/
 
